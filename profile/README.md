@@ -1,5 +1,5 @@
 ## SuperFastMRI team
-We participated in the 2024 SNU FastMRI Challenge as a two-person team named **SuperFastMRI**. We ranked 4th place in the public leaderboard. ~~~~
+We participated in the 2024 SNU FastMRI Challenge as a two-person team named **SuperFastMRI**. We ranked 4th place in the public leaderboard.
 
 This organization has three owner accounts. [KhoDongwook](https://github.com/KhoDongwook), [Yoongon-Kim](https://github.com/Yoongon-Kim), and our team-shared account [superfastmri](https://github.com/superfastmri). We primarily committed to 'SNU-FastMRI-Challenge' repository using the shared account.
 
