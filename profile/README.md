@@ -1,5 +1,5 @@
 ## SuperFastMRI team
-We participated in the 2024 SNU FastMRI Challenge as a two-person team named **SuperFastMRI**.
+We participated in the 2024 SNU FastMRI Challenge as a two-person team named **SuperFastMRI**. We ranked 4th place in the public leaderboard. ~~~~
 
 ### Team Members
 * Dongwook Kho
